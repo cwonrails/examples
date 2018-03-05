@@ -1,7 +1,10 @@
 {
-  "name": "parcel-react-example",
-  "version": "1.0.0",
-  "description": "Simple React example",
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "license": "",
+  "author": {},
+  "repository": {},
   "scripts": {
     "start": "parcel index.html --open"
   },
@@ -11,6 +14,8 @@
   },
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.6.1"
-  }
+    "parcel-bundler": "^1.6.2",
+    "standard": "^11.0.0"
+  },
+  "private": "true"
 }
